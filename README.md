@@ -4,9 +4,9 @@
 
 ### Project overview 
 
-This analysis offers valuable insights into employee salary distribution, identifying the highest-paid locations and examining departmental salary trends. By leveraging these insights, we can make data-informed decisions and refine our salary strategies, ultimately enhancing our fund management.
+This analysis offers valuable insights into employee gender and salary distribution, identifying the highest-paid locations and examining departmental salary trends. By leveraging these insights, we can make data-informed decisions and redefine our salary strategies, ultimately enhancing our fund management.
 
-![Screenshot 2024-08-30 205731](https://github.com/user-attachments/assets/5dbc4536-e301-4eae-82bd-9b1bb9db632a)
+![Screenshot 2024-08-31 095756](https://github.com/user-attachments/assets/b3ee2675-10cf-4593-8b3e-7b1fbac6345e)
 
 ### Data sources 
 
@@ -21,9 +21,10 @@ Employee Data: The primary dataset for this analysis is the "Palmoria_data.csv" 
 
 In the initial data preparation phase, the following tasks were performed:
 
-- Data Loading and Inspection
-- Handling Missing Values
-- Data Cleaning and Formatting
+- Some employee are taken out because they are no longer with the company
+- Genetic gender status: "Non-Disclosure"was assigned to employee that do not disclose their gender
+- Department indicated as "NULL" are taken out
+- 'Lag0s' was replaced with 'Lagos'
 
 ### Exploratory Data Analysis
 
