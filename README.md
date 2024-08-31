@@ -31,15 +31,15 @@ In the initial data preparation phase, the following tasks were performed:
 The EDA aimed to address key questions such as:
 
 - Total salary expenditure
-- Average salary per employee
-- Salary distribution by individual employee
 - Total number of employees
+- Location count
+- Average salary per employee
+- Number of departments
+- Salary distribution by individual employee
 - Gender distribution within the company
 - Average salary by gender
-- Number of departments
 - Salary distribution by department
 - Salary distribution by location
-- Location count
 - Average salary by location
 
 ### Result & Findings
