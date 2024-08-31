@@ -8,6 +8,8 @@ The aim of this project is to examine and gain insights into the gender distribu
 
 ![Screenshot 2024-08-31 095756](https://github.com/user-attachments/assets/b3ee2675-10cf-4593-8b3e-7b1fbac6345e)
 
+![Screenshot 2024-08-31 113118](https://github.com/user-attachments/assets/cd03217b-8efa-4b90-bab4-a6b2acfb3f48)
+
 ### Data sources 
 
 Employee Data: The primary dataset for this analysis is the "Palmoria_data.csv" file, which contains detailed information about the company's employees.
@@ -55,3 +57,4 @@ The EDA aimed to address key questions such as:
 ### Conclusion
 
 This analysis offers important insights into the organization’s gender dynamics, highlighting areas where gender disparities may exist. These findings can guide efforts to enhance diversity and equity. Ongoing investigation and regular monitoring are suggested to promote a fair and inclusive workplace.
+
