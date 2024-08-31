@@ -4,7 +4,7 @@
 
 ### Project overview 
 
-This analysis provides valuable insights into customer behavior, geographical distribution, and the performance of sales representatives. By leveraging these insights, we can make data-informed decisions and tailor our strategies to maximize effectiveness.
+This analysis offers valuable insights into employee salary distribution, identifying the highest-paid locations and examining departmental salary trends. By leveraging these insights, we can make data-informed decisions and refine our salary strategies, ultimately enhancing our fund management.
 
 ![Screenshot 2024-08-30 205731](https://github.com/user-attachments/assets/5dbc4536-e301-4eae-82bd-9b1bb9db632a)
 
